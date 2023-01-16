@@ -1,0 +1,128 @@
+[
+    {
+        "shop_name": "Bob's Burgers",
+        "address": "123 Main St",
+        "city": "Anytown",
+        "phone": "555-555-5555",
+        "image": "https://example.com/bobs-burgers.jpg"
+    },
+    {
+        "shop_name": "Sally's Pizza",
+        "address": "456 Park Ave",
+        "city": "Anytown",
+        "phone": "555-555-5556",
+        "image": "https://example.com/sallys-pizza.jpg"
+    },
+    {
+        "shop_name": "John's Deli",
+        "address": "789 Elm St",
+        "city": "Anytown",
+        "phone": "555-555-5557",
+        "image": "https://example.com/johns-deli.jpg"
+    },
+    {
+        "shop_name": "Jane's Cafe",
+        "address": "321 Oak St",
+        "city": "Anytown",
+        "phone": "555-555-5558",
+        "image": "https://example.com/janes-cafe.jpg"
+    },
+    {
+        "shop_name": "Mike's Grocery",
+        "address": "159 Birch St",
+        "city": "Anytown",
+        "phone": "555-555-5559",
+        "image": "https://example.com/mikes-grocery.jpg"
+    },
+    {
+        "shop_name": "Emily's Ice Cream",
+        "address": "753 Maple St",
+        "city": "Anytown",
+        "phone": "555-555-5560",
+        "image": "https://example.com/emilys-ice-cream.jpg"
+    },
+    {
+        "shop_name": "Dave's Florist",
+        "address": "147 Pine St",
+        "city": "Anytown",
+        "phone": "555-555-5561",
+        "image": "https://example.com/daves-florist.jpg"
+    },
+    {
+        "shop_name": "Karen's Bakery",
+        "address": "369 Cedar St",
+        "city": "Anytown",
+        "phone": "555-555-5562",
+        "image": "https://example.com/karens-bakery.jpg"
+    },
+    {
+        "shop_name": "Steve's Bookstore",
+        "address": "258 Willow St",
+        "city": "Anytown",
+        "phone": "555-555-5563",
+        "image": "https://example.com/steves-bookstore.jpg"
+    },
+    {
+        "shop_name": "Amy's Jewelry",
+        "address": "753 Oak St",
+        "city": "Anytown",
+        "phone": "555-555-5564",
+        "image": "https://example.com/amys-jewelry.jpg"
+    },
+    {
+        "shop_name": "Brian's Shoes",
+        "address": "369 Elm St",
+        "city": "Anytown",
+        "phone": "555-555-5565",
+        "image": "https://example.com/brians-shoes.jpg"
+        },
+        {
+        "shop_name": "Chris's Clothing",
+        "address": "258 Park Ave",
+        "city": "Anytown",
+        "phone": "555-555-5566",
+        "image": "https://example.com/chriss-clothing.jpg"
+        },
+        {
+        "shop_name": "Daniel's Furniture",
+        "address": "147 Main St",
+        "city": "Anytown",
+        "phone": "555-555-5567",
+        "image": "https://example.com/daniels-furniture.jpg"
+        },
+        {
+        "shop_name": "Eric's Electronics",
+        "address": "753 Pine St",
+        "city": "Anytown",
+        "phone": "555-555-5568",
+        "image": "https://example.com/erics-electronics.jpg"
+        },
+        {
+        "shop_name": "Frank's Hardware",
+        "address": "369 Birch St",
+        "city": "Anytown",
+        "phone": "555-555-5569",
+        "image": "https://example.com/franks-hardware.jpg"
+        },
+        {
+        "shop_name": "George's Pet Store",
+        "address": "258 Cedar St",
+        "city": "Anytown",
+        "phone": "555-555-5570",
+        "image": "https://example.com/georges-pet-store.jpg"
+        },
+        {
+        "shop_name": "Hannah's Beauty",
+        "address": "147 Maple St",
+        "city": "Anytown",
+        "phone": "555-555-5571",
+        "image": "https://example.com/hannahs-beauty.jpg"
+        },
+        {
+        "shop_name": "Isabella's Toys",
+        "address": "753 Willow St",
+        "city": "Anytown",
+        "phone": "555-555-5572",
+        "image": "https://example.com/isabellas-toys.jpg"
+        }
+        ]
