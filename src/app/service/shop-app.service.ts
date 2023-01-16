@@ -7,6 +7,10 @@ export class ShopAppService {
 
   constructor() { }
 
+login_fun(){
+
+}
+
   getShops(){
 
     const csrf_token = localStorage.getItem('csrftoken')
