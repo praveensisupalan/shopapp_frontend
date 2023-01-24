@@ -1,9 +1,30 @@
-<p>shop-list works!</p>
-
-<div *ngFor ="let shop of shops">
-{{shop.shop_name}}
-{{shop.address}}
-{{shop.city}}
-{{shop.phone}}
-{{shop.image}}
+<app-nav></app-nav>
+<div class="container">
+   <div class="row mt-5">
+    <div class="d-flex justify-content-center" *ngIf="shops == 0" >
+      <h1 >Nothing to Display Add Shops</h1>
+    </div>
+    <div class="col-3" *ngFor="let shop of shops">
+      <div class="card mb-2 shadow-sm p-3 mb-5 bg-body-tertiary rounded">
+        <div>
+          <img src="http://127.0.0.1:8000{{shop.image}}" class="card-img-top mx-auto d-block img-fluid f-img" alt="...">
+        </div>
+        <div class="card-body">
+          <h5 class="card-title"><b>ID:</b>{{shop.id}}</h5>
+          <h5 class="card-title">{{shop.shop_name}}</h5>
+          <p class="card-text">{{shop.city}}</p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item"></li>
+        </ul>
+        <div class="card-body">
+          <button class="btn btn-primary d-block d-md-inline-block mx-auto" (click)="reidirectToShopDetail(shop.id)">View</button>
+          <a class="btn btn-outline-danger d-block d-md-inline-block mx-auto " (click)="del_fun(shop.id)"href="shops">Delete</a>
+  
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
+
+

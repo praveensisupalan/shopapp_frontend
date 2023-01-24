@@ -1,0 +1,16 @@
+<app-nav></app-nav>
+<div class="d-flex justify-content-center mt-5">
+    <div class="card mb-3 w-50 text-center">
+      <img src="http://127.0.0.1:8000{{shop_detail?.image}}" class="card-img-top mx-auto d-block img-fluid" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">{{shop_detail?.shop_name}}</h5>
+        <p class="card-text"><b>ID:</b>{{shop_detail?.id}}</p>
+        <p class="card-text"><b>ADDRESS:</b>{{shop_detail?.address}}</p>
+      </div>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item"><b>CITY:</b>{{shop_detail?.city}}</li>
+        <li class="list-group-item"><b>PHONE:</b>{{shop_detail?.phone}}</li>
+      </ul>
+    </div>
+  </div>
+  
